@@ -30,7 +30,7 @@ The PCM-DFR-System is a reverse vending machine (RVM) prototype that detects, co
 ---
 
 ## 🛠️ **System Architecture**
-----
+
 **BLOCK DIAGRAM**
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcE74XeArd_qzuTaHRsEkC0hsW_qzjc5TDARkavpA4ABnXsPfHZ1YSYljWhXWe-hTzlRWJYyODmudi76Kh14ZTi-FGZxmsVBj1-B7pOUWMx4wytH2yPzc85oQDMG9Y6JQvhw4kdygm4KJj23euRtNY?key=wAnhi_jwVwyVVq5B01u1w5JG)**
