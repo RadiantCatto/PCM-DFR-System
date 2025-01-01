@@ -27,15 +27,13 @@ The PCM-DFR-System is a reverse vending machine (RVM) prototype that detects, co
 4. **Full-Bin Detection:**
    - Alerts admin when the bin is 100% full using IR sensors.
 
----
-
 ## 🛠️ **System Architecture**
 
 **BLOCK DIAGRAM**
 
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcE74XeArd_qzuTaHRsEkC0hsW_qzjc5TDARkavpA4ABnXsPfHZ1YSYljWhXWe-hTzlRWJYyODmudi76Kh14ZTi-FGZxmsVBj1-B7pOUWMx4wytH2yPzc85oQDMG9Y6JQvhw4kdygm4KJj23euRtNY?key=wAnhi_jwVwyVVq5B01u1w5JG)**
 
-----
+---
 **BREADBOARD DIAGRAM**
 **![No description available.](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdC9ii6J8eyqT8RtG8VOzoGo2xp9Mwqi1K9VAe49sfgyUwVosRG504rt4sffat2Q0qN0hnzJDpcJYN_746Yrd_rTvKKLAMEf3vt4G2rIIub9Th9pXEwUGCgJ75NaskOsqBC6keJutg5s8d4D2pAvA?key=wAnhi_jwVwyVVq5B01u1w5JG)**
 ### Hardware Components:
